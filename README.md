@@ -1,4 +1,4 @@
-# Modelo "Insolation Forest" para Detección de Anomalías en ReteICA
+# Modelo "Isolation Forest" para Detección de Anomalías en ReteICA
 
 ### Problema: 
 El municipio de La Unión, Valle del Cauca, Colombia, enfrenta desafíos en la detección de anomalías en las declaraciones del impuesto ReteICA. Estas anomalías pueden indicar fraude fiscal o errores en las declaraciones, lo que afecta la recaudación y la transparencia tributaria.
